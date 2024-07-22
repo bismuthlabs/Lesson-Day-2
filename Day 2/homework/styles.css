@@ -1,0 +1,46 @@
+/* Style for the main heading */
+#main-heading {
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style for the introductory paragraph */
+.intro {
+    background-color: lightgrey;
+    padding: 10px;
+    font-style: italic;
+}
+
+/* Style for the list items */
+ul li {
+    color: red;
+    font-weight: bold;
+}
+
+/* Style for the content div */
+.content {
+    border: 2px dashed blue;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Style for the subheading within the content div */
+.content h2 {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+/* Style for the paragraph within the content div */
+.content p {
+    color: darkblue;
+    background-color: lightyellow;
+    padding: 10px;
+}
+
+/* Style for the image */
+img {
+    border: 2px solid black;
+    display: block;
+    margin: 20px auto;
+}

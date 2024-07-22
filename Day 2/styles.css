@@ -1,0 +1,10 @@
+/* External CSS: Defined in an external .css file and linked to the HTML document using the <link> element. */
+h1 {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+p {
+    color: red;
+}
